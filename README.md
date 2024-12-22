@@ -1,6 +1,6 @@
-# 西邮 Linux 兴趣小组官网
+# 河理 电器开发部官方网站
 
-2024年3月14日立项，采用 VitePress 构建。
+2024年12月23日立项，采用 VitePress 构建。
 
 ## Documentation
 
